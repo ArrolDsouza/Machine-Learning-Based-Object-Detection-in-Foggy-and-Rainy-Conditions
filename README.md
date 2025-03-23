@@ -50,7 +50,7 @@ python src/inference/inference.py --input path/to/image --weights path/to/weight
 
 ## 🏗️ Model Enhancements
 The detection pipeline integrates several enhancements to improve accuracy under low-visibility conditions:
-- **📝 Labeled Data: Annotations created using CVAT and MakeSense.
+- 📝 Labeled Data: Annotations created using CVAT and MakeSense.
 - **🔺 Feature Pyramid Network (FPN)**: Enhances multi-scale feature detection.
 - **🧠 Attention Mechanisms**: Improves object localization in low-contrast conditions.
 - **📱 Lightweight Model Variants**: Optimized versions for edge computing and real-time applications.
@@ -59,10 +59,10 @@ The detection pipeline integrates several enhancements to improve accuracy under
 Python 3.8+ Python NVIDIA GPU (recommended) CUDA Webcam or video source See requirements.txt for full package list
 
 ## 📝 Notes
-- ** ⚡ Auto GPU Detection: Uses CUDA if available, falls back to CPU
-- ** 🔧 Configurable Threshold: Adjust confidence in code (default: 0.25)
-- ** 🌐 Pretrained Models: Automatically downloads COCO weights on first run
-- ** 📈 Performance: Processing times ranged from 13.6ms to 102.4ms per image. The model handled various image sizes well
+- ⚡ Auto GPU Detection: Uses CUDA if available, falls back to CPU
+-  🔧 Configurable Threshold: Adjust confidence in code (default: 0.25)
+-  🌐 Pretrained Models: Automatically downloads COCO weights on first run
+- 📈 Performance: Processing times ranged from 13.6ms to 102.4ms per image. The model handled various image sizes well
   
 ## 🤝 Contributors
 - **👨‍💻 Project Lead:** Arrol, Harsh
