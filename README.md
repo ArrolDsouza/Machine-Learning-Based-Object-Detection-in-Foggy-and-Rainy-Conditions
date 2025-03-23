@@ -85,9 +85,9 @@ The model is evaluated using the following metrics:
 - **🤖 Self-Supervised Learning:** Reduce dependency on labeled datasets.
 
 ## 🤝 Contributors
-- **👨‍💻 Project Lead:** [Your Name]
-- **👥 Team Members:** [Other Contributors]
-- **🙏 Acknowledgments:** [Relevant Mentions]
+- **👨‍💻 Project Lead:** Arrol, Harsh
+- **👥 Team Members:** Vinit , Pradeep
+
 
 ## 📜 License
 This project is licensed under the MIT License. See `LICENSE` for details.
