@@ -58,11 +58,11 @@ The detection pipeline integrates several enhancements to improve accuracy under
 ## 📦 Requirements
 Python 3.8+ Python NVIDIA GPU (recommended) CUDA Webcam or video source See requirements.txt for full package list
 
-##📝 Notes
-- **⚡ Auto GPU Detection: Uses CUDA if available, falls back to CPU
-- **🔧 Configurable Threshold: Adjust confidence in code (default: 0.25)
-- **🌐 Pretrained Models: Automatically downloads COCO weights on first run
-- **📈 Performance: Processing times ranged from 13.6ms to 102.4ms per image. The model handled various image sizes well
+## 📝 Notes
+- ** ⚡ Auto GPU Detection: Uses CUDA if available, falls back to CPU
+- ** 🔧 Configurable Threshold: Adjust confidence in code (default: 0.25)
+- ** 🌐 Pretrained Models: Automatically downloads COCO weights on first run
+- ** 📈 Performance: Processing times ranged from 13.6ms to 102.4ms per image. The model handled various image sizes well
   
 ## 🤝 Contributors
 - **👨‍💻 Project Lead:** Arrol, Harsh
