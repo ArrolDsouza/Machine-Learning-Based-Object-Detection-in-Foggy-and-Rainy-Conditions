@@ -27,7 +27,7 @@ pip install -r requirements.txt PyTorch Ultralytics
 ### 2️⃣ Download and Prepare Datasets
 Ensure you have the required datasets and place them in the `data/` directory:
 - **🌫️ Foggy Cityscapes** (for urban scenes under foggy conditions)
-- **🌫️ Some Other dataset from Kaggle
+- 🌫️ Some Other dataset from Kaggle
   
 ###  3️⃣ Data Preprocessing
 Run the preprocessing script to clean and enhance images:
