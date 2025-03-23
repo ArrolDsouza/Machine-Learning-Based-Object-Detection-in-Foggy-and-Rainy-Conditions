@@ -1,10 +1,8 @@
-# Machine-Learning-Based-Object-Detection-in-Foggy-and-Rainy-Conditions
-Visibility is significantly reduced in foggy and rainy conditions, making traditional object detection methods unreliable. The goal is to develop an AI-based detection system that enhances vehicle safety under such conditions.
 
-# 🚀 AI-Powered Object Detection in Foggy and Rainy Conditions
+# 🚀 Machine Learning Based Object Detection in Foggy and Rainy Conditions
 
 ## 🌟 Overview
-This project implements an advanced object detection system specifically designed for challenging weather conditions such as fog and rain. It leverages **YOLOv8** as the base model, enhanced with custom preprocessing techniques and architectural improvements to ensure robust detection in adverse environments.
+This project implements an advanced object detection system specifically designed for challenging weather conditions such as fog and rain. It leverages **YOLOv8** as the base model, enhanced with custom preprocessing techniques and architectural improvements to ensure robust detection in adverse environments.Visibility is significantly reduced in foggy and rainy conditions, making traditional object detection methods unreliable. The goal is to develop an AI-based detection system that enhances vehicle safety under such conditions.
 
 ## 🔥 Key Features
 - **🌫️ Weather-Adaptive Object Detection:** Optimized for foggy and rainy conditions.
